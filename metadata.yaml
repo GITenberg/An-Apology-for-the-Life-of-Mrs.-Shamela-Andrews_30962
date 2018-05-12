@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/537
     wikipedia: http://en.wikipedia.org/wiki/Henry_Fielding
 description: 'Parodi på Samuel Richardson''s roman: Pamela (1740)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30962#An-Apology-for-the-Life-of-Mrs.-Shamela-Andrews
 gutenberg_issued: '2010-01-14'
 gutenberg_type: Text
 identifiers:
